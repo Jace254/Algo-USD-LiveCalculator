@@ -19,6 +19,7 @@ const schema = buildSchema(`
     dailyLowPrice: Float!
     currentPrice: Float!
   }
+  
   type Query {
     price(id: Int!): ExRate
   }

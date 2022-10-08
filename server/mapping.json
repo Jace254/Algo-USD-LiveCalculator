@@ -1,10 +1,18 @@
 [
     {
         "id": 0,
-        "name": "algorand"
+        "name": "bitcoin"
     },
     {
         "id": 1,
+        "name": "algorand"
+    },
+    {
+        "id": 3,
         "name": "ethereum"
+    },
+    {
+        "id": 4,
+        "name": "near"
     }
 ]
