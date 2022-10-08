@@ -1,7 +1,5 @@
-/* Example in Node.js */
 import axios from "axios";
 import { load } from "cheerio";
-// import { API_KEY } from "./constants";
 
 let response = null;
 new Promise(async (resolve, reject) => {
