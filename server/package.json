@@ -1,0 +1,17 @@
+{
+  "name": "n",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jace254",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.1.2",
+    "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.0.3"
+  }
+}
